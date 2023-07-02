@@ -61,7 +61,7 @@ button:active {
 }
 
 .button-container {
-  margin-top: 55px;
+  margin-top: 4.2%;
 }
 
 .hero button {
@@ -171,7 +171,6 @@ button:active {
   font-family: 'Exo 2', sans-serif;
   font-size: 36px;
 }
-
 
 .sign-container {
   display: flex;
