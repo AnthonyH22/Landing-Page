@@ -143,7 +143,7 @@ button:active {
 
 .quote {
   background-color: #e5e7eb;
-  transform: translate(-9px, 450px);
+  transform: translate(0px, 450px);
   width: 100vw;
   height: 425px;
 }
@@ -238,7 +238,7 @@ footer {
   display: flex;
   justify-content: center;
   background-color: #420039;
-  transform: translate(-9px, 800px);
+  transform: translate(0px, 800px);
   width: 100vw;
   height: 90px;
 }
